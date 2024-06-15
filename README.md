@@ -4,7 +4,7 @@ Yahellow peeps! 👋
 
 This is my long awaited MacOS rice!! 😁
 
-I'm also planning on releasing a much more advanced one for linux as well using hpyerland as the WM. So stay tuned for that also. 😉
+I'm also planning on releasing a linux rice using hpyerland as the WM. So stay tuned for that also. 😉
 
 ## What's in here?
 
