@@ -1,0 +1,12 @@
+git
+gh
+nvim
+tmux
+lsd
+fd
+fzf
+yt-dlp
+zsh-autosuggestions
+pipx
+nodejs20
+
