@@ -1,4 +1,5 @@
-# Project Maccuccin
+# Project Maccuccin 
+## (I updated my config please switch to https://github.com/Chamal1120/mac_rice for the latest updates)
 
 Yahellow peeps! 👋
 
